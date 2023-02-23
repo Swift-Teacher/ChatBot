@@ -12,12 +12,18 @@ struct ConversationDelegate {
         } else if lowerQuestion.contains("what the") {
             return "Hey, watch your language!!😡🤬"
         } else {
-            let defaultNumber = question.count % 3
+            let defaultNumber = question.count % 5
             
             if defaultNumber == 0 {
                 return "That really depends"
             } else if defaultNumber == 1 {
-                return "I think so, yes"
+                return "Max Verstappen is World Champion... again!"
+            } else if defaultNumber == 2 {
+                return "The most disastrous thing that you can ever learn is your first programming language. - Alan Kay"
+            } else if defaultNumber == 3 {
+                return "Swift world domination!"
+            } else if defaultNumber == 4 {
+                return "Quoi?"
             } else {
                 return "Ask me again tomorrow"
             }

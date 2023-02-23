@@ -36,6 +36,7 @@
 		5A042B2524352814000BC283 /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		5A042B2624352814000BC283 /* ConversationDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConversationDelegate.swift; sourceTree = "<group>"; };
 		5A042B2724352814000BC283 /* AskCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AskCell.swift; sourceTree = "<group>"; };
+		EB0FC04629A7E7F10003EC83 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		5A042AF2243527AF000BC283 = {
 			isa = PBXGroup;
 			children = (
+				EB0FC04629A7E7F10003EC83 /* README.md */,
 				5A042AFD243527AF000BC283 /* ChatBot */,
 				5A042AFC243527AF000BC283 /* Products */,
 			);
