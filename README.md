@@ -30,7 +30,7 @@ We will have our students update their QuestionAnswerer file to have responses t
     1. Have students open the QuestionAnswerer file on their Desktop (it should automatically open in Xcode.)
     2. Have students change this line:
     ```swift
-    let defaultNumber = question.count % 3
+        let defaultNumber = question.count % 3
     ```
     to have a remainder of 5 or higher so that they can have more responses.
     3. Have students enter their new responses as 'else if' statements.
