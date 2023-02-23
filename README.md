@@ -19,25 +19,25 @@ The general process and flow of this project is in the format of an Apple Teache
 ### Activate
 We want our students to activate any prior knowledge on the topic. Since our students previously built the QuestionBot app, they will have some prior knowledge of how the app works. With ChatBot we will take our existing knowledge and apply it to a similar, but slightly more complicated app to expand our software development knowledge:
 
-    1. Launch your QuestionBot app and ask QuestionBot five questions.
-    2. Find the QuestionAnswerer file. 
-    3. Copy that file and save it to your Desktop.
+1. Launch your QuestionBot app and ask QuestionBot five questions.
+2. Find the QuestionAnswerer file. 
+3. Copy that file and save it to your Desktop.
 
 
 ### Explore
 We will have our students update their QuestionAnswerer file to have responses to questions that cover a hobyy or interest such as a favorite sport, favorite movie, favorite activity, or someone they admire.
 
-    1. Have students open the QuestionAnswerer file on their Desktop (it should automatically open in Xcode.)
-    2. Have students change this line:
+1. Have students open the QuestionAnswerer file on their Desktop (it should automatically open in Xcode.)
+2. Have students change this line:
     ```swift
         let defaultNumber = question.count % 3
     ```
-    to have a remainder of 5 or higher so that they can have more responses.
-    3. Have students enter their new responses as 'else if' statements.
+to have a remainder of 5 or higher so that they can have more responses.
+3. Have students enter their new responses as 'else if' statements.
 
 
 ### Apply 
 In this part of the project we build the app.
     
-    1. The instructions and process of building the app starts on page 346 in the student book.
-    2. Individual steps and further explanations can be found as comments in each code file in the project.
+1. The instructions and process of building the app starts on page 346 in the student book.
+2. Individual steps and further explanations can be found as comments in each code file in the project.
