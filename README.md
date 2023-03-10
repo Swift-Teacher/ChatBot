@@ -25,7 +25,7 @@ We want our students to activate any prior knowledge on the topic. Since our stu
 
 
 ### Explore
-We will have our students update their QuestionAnswerer file to have responses to questions that cover a hobyy or interest such as a favorite sport, favorite movie, favorite activity, or someone they admire.
+We will have our students update their QuestionAnswerer file to have responses to questions that cover a hobby or interest such as a favorite sport, favorite movie, favorite activity, or someone they admire.
 
 1. Have students open the QuestionAnswerer file on their Desktop (it should automatically open in Xcode.)
 2. Have students change this line:
