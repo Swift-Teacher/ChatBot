@@ -8,6 +8,17 @@ This project is part of Unit 4 in Apple's **Develop in Swift AP CS Principles** 
 ## Purpose 🖥 💻 📱
 Students will learn how to build a data source object to track a conversation between a user and the device, how to use and implement data sources using delegation, and how apps are built incrementally. Students should know what a cell is, what a data source is, and what an iOS Table view is by the end of the lesson.
 
+### Learning Goal
+Students will complete a Meme Maker app from scratch. Students will review a variety of concepts covered in the course and build the user interface, the model data, and the controller objects that make up the entire application.
+
+### Ohio CS Standard(s)
+1. ATP.CS.9-12.A.a - Write programs that use library methods and control structures and methods to solve a problem.
+2. ATP.M.9-12.A.c - Create programming solutions by reusing existing code (e.g., libraries, Application Programming Interface (APIs), code repositories).
+3. ATP.VDR.9-12.F.a - Identify types of variables and data and utilize them to create a computer program that stores data in appropriate ways.
+4. ATP.PD.3.a - Use a design process to plan the development of a program that solves problems.
+5. ATP.PD.3.b - Using a given program known to contain errors, identify and debug errors to ensure it works.
+6. ATP.M.9-12.A.b - Design or redesign a solution to a large-scale computational problem by identifying generalizable patterns.
+
 ## Process 👩🏾‍🏫 👨🏻‍🏫 👨🏻‍💻 👩🏽‍💻
 The general process and flow of this project is in the format of an Apple Teacher Portfolio lesson. There are three parts/phases to the lesson
     - Activate
@@ -41,3 +52,7 @@ In this part of the project we build the app.
     
 1. The instructions and process of building the app starts on page 346 in the student book.
 2. Individual steps and further explanations can be found as comments in each code file in the project.
+
+
+### Assessment
+Students will demonstrate a fully functional app that operates as intended. The demonstration will be done in the iOS Simulator app and recorded using the built-in macOS screen recorder (shift-command-5). Students submit their screen recording and a PDF of their code.
