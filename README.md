@@ -9,7 +9,7 @@ This project is part of Unit 4 in Apple's **Develop in Swift AP CS Principles** 
 Students will learn how to build a data source object to track a conversation between a user and the device, how to use and implement data sources using delegation, and how apps are built incrementally. Students should know what a cell is, what a data source is, and what an iOS Table view is by the end of the lesson.
 
 ### Learning Goal
-Students will complete a Meme Maker app from scratch. Students will review a variety of concepts covered in the course and build the user interface, the model data, and the controller objects that make up the entire application.
+Students will revise their current QuestionBot app including user interface to transform app into a chat interface. Students will update the existing data model: ConversationDelegate to make it more conversational and focus on an area of interest.
 
 ### Ohio CS Standard(s)
 1. ATP.CS.9-12.A.a - Write programs that use library methods and control structures and methods to solve a problem.
