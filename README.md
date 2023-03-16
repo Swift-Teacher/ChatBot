@@ -14,10 +14,8 @@ Students will revise their current QuestionBot app including user interface to t
 ### Ohio CS Standard(s)
 1. ATP.CS.9-12.A.a - Write programs that use library methods and control structures and methods to solve a problem.
 2. ATP.M.9-12.A.c - Create programming solutions by reusing existing code (e.g., libraries, Application Programming Interface (APIs), code repositories).
-3. ATP.VDR.9-12.F.a - Identify types of variables and data and utilize them to create a computer program that stores data in appropriate ways.
-4. ATP.PD.3.a - Use a design process to plan the development of a program that solves problems.
-5. ATP.PD.3.b - Using a given program known to contain errors, identify and debug errors to ensure it works.
-6. ATP.M.9-12.A.b - Design or redesign a solution to a large-scale computational problem by identifying generalizable patterns.
+3. ATP.PD.3.b - Using a given program known to contain errors, identify and debug errors to ensure it works.
+4. ATP.M.9-12.A.b - Design or redesign a solution to a large-scale computational problem by identifying generalizable patterns.
 
 ## Process 👩🏾‍🏫 👨🏻‍🏫 👨🏻‍💻 👩🏽‍💻
 The general process and flow of this project is in the format of an Apple Teacher Portfolio lesson. There are three parts/phases to the lesson
